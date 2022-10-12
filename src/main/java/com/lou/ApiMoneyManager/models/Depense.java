@@ -1,4 +1,4 @@
-package com.lou.apimoneymanager.models;
+package com.lou.ApiMoneyManager.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

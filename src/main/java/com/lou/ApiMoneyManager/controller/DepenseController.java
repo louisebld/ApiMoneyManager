@@ -1,7 +1,7 @@
-package com.lou.apimoneymanager.controller;
+package com.lou.ApiMoneyManager.controller;
 
-import com.lou.apimoneymanager.models.Depense;
-import com.lou.apimoneymanager.services.DepenseService;
+import com.lou.ApiMoneyManager.models.Depense;
+import com.lou.ApiMoneyManager.services.DepenseService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

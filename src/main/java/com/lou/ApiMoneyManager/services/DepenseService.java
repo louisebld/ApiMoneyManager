@@ -1,7 +1,7 @@
-package com.lou.apimoneymanager.services;
+package com.lou.ApiMoneyManager.services;
 
-import com.lou.apimoneymanager.models.Depense;
-import com.lou.apimoneymanager.repository.DepenseRepository;
+import com.lou.ApiMoneyManager.models.Depense;
+import com.lou.ApiMoneyManager.repository.DepenseRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

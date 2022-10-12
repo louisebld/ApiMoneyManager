@@ -1,4 +1,4 @@
-package com.lou.apimoneymanager;
+package com.lou.ApiMoneyManager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
