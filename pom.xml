@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lou</groupId>
-	<artifactId>ApiMoneyManager</artifactId>
+	<artifactId>apimoneymanager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ApiMoneyManager</name>
-	<description>API money manager</description>
+	<description>api for money manager</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

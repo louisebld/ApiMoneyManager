@@ -1,4 +1,4 @@
-package com.lou.ApiMoneyManager;
+package com.lou.apimoneymanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
