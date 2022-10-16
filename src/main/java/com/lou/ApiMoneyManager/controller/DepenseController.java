@@ -11,6 +11,7 @@ import java.util.List;
 @RequestMapping("/api/depense")
 @AllArgsConstructor
 
+@CrossOrigin(origins = "http://localhost:4200")
 public class DepenseController {
     private final DepenseService depenseService;
 
